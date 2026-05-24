@@ -1,8 +1,8 @@
 # Algorithmic Trading with Python
 
-This repository acts as a library of quantitative algorithms for algorithmic trading implemented in Python. There are currently 23 programs and more will be added with the passage of time. Based on the technical indicator's nature, the algorithms are classified into five directories: Advanced Strategies, Momentum, Overlap, Trend, and Volatility. Use the link here for a detailed explanation of each of the strategies represented: https://nikhiladithyan.medium.com/list/algorithmic-trading-with-python-152fa99c535a
+This repository acts as a library of quantitative algorithms for algorithmic trading implemented in Python. There are currently 23 programs and more will be added with the passage of time. Based on the technical indicator's nature, the algorithms are classified into five directories: Advanced Strategies, Momentum, Overlap, Trend, and Volatility. 
 
-## [Advanced Strategies (5)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Advanced%20Strategies)
+## [Advanced Strategies ]
 
 This folder contains strategies that use two or more technical indicators.
 
@@ -12,7 +12,7 @@ This folder contains strategies that use two or more technical indicators.
 4. **STOCH_MACD.py:** A strategy that uses Stochastic Oscillator and MACD
 5. **W%R_MACD.py:** A strategy that uses Williams %R and MACD
 
-## [Momentum (11)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Momentum)
+## [Momentum ]
 
 This folder contains strategies that uses Momentum-based technical indicators
 
@@ -28,14 +28,14 @@ This folder contains strategies that uses Momentum-based technical indicators
 10. **TSI.py:** A strategy based on the True Strength Index
 11. **W%R.py:** A strategy based on the Williams %R indicator
 
-## [Overlap (2)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Overlap)
+## [Overlap ]
 
 This folder contains strategies that uses Overlap-based technical indicators
 
 1. **ST.py:** A strategy based on the SuperTrend indicator
 2. **SMA.py:** A strategy based on the Simple Moving Average indicator
 
-## [Trend (3)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Trend)
+## [Trend ]
 
 This folder contains strategies that uses Trend-based technical indicators
 
@@ -43,7 +43,7 @@ This folder contains strategies that uses Trend-based technical indicators
 2. **AROON.py:** A strategy based on the Aroon indicator
 3. **CI.py:** A strategy based on the Choppiness Index
 
-## [Volatility (2)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Volatility)
+## [Volatility ]
 
 This folder contains strategies that uses Volatility-based technical indicators
 
